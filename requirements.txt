@@ -1,0 +1,7 @@
+sounddevice
+scipy
+SpeechRecognition
+googletrans
+gtts
+playsound
+streamlit
