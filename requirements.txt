@@ -1,7 +1,6 @@
-sounddevice
-scipy
-SpeechRecognition
-googletrans
-gtts
-playsound
-streamlit
+sounddevice==0.4.2
+scipy==1.7.3
+SpeechRecognition==3.8.1
+googletrans==4.0.0-rc1
+gtts==2.2.3
+streamlit==1.10.0
