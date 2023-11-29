@@ -4,5 +4,5 @@ SpeechRecognition
 googletrans
 gtts
 streamlit
-!pip install --upgrade pip
+sudo apt-get install portaudio19-dev
 portaudio
